@@ -1,0 +1,27 @@
+
+.header_menu{}
+.header_menu ul{
+    text-align: right;
+    line-height: 40px;
+} 
+.header_menu ul li{
+    display: inline-block;
+} 
+.header_menu ul li a{
+    text-decoration: none;
+    padding: 0 10px;
+    color: black;
+} 
+
+.border{
+    text-align: center;
+    padding-bottom: 10px;
+    font-size: 14px;
+}
+.background{
+    background-color: #fafafa;
+}
+.width{
+    width: 80%;
+    margin: auto;
+}
